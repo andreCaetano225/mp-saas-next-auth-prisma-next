@@ -72,6 +72,10 @@ export default async function Home() {
           </p>
         </form>
       </section>
+
+
+
+
       <section className="bg-white md:py-16 py-8" id="funcionamento">
         <div className="container mx-auto">
           <h2 className="text-2xl md:text-4xl font-bold text-center">
